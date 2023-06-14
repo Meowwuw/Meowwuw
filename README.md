@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-<h1 align="center">¡Hola, soy Magenta Paredes!</h1>
-<div style="display: flex; justify-content: center; align-items: center; text-align: center;">
-  <img src="bubble-gum-psychologist-online-consultation.png" alt="Ilustración 1" height="150px" style="margin-right: 10px;" />
-  <img src="bubble-gum-clock-near-calendar.png" alt="Ilustración 3" height="150px" />
-  <img src="bubble-gum-workflow.gif" alt="Ilustración 2" height="150px" style="margin-right: 10px;" />
-</div>
-
-<p align="center">Ilustración por <a href="https://icons8.com/illustrations/author/7WmtYU90j36d">Fruzka</a> de <a href="https://icons8.com/illustrations">Ouch!</a></p>
+<h1 align="center"> Hola soy Magenta Paredes</h1>
+<p align="center"><img src="bubble-gum-workflow.gif" height="250px"/></p> 
+[bubble-gum-psychologist-online-consultation](https://github.com/Meowwuw/Meowwuw/assets/85425689/7cbd76af-b4ab-49c5-9a8b-10d445fd46ed)
+<p align="center"> Illustration by <a href="https://icons8.com/illustrations/author/7WmtYU90j36d">Fruzka</a> from <a href="https://icons8.com/illustrations">Ouch!</a></p>
 
 <!--
 **Meowwuw/Meowwuw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
