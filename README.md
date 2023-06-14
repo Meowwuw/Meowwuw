@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <h1 align="center">¡Hola, soy Magenta Paredes!</h1>
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center; text-align: center;">
   <img src="bubble-gum-psychologist-online-consultation.png" alt="Ilustración 1" height="150px" style="margin-right: 10px;" />
-  <img src="bubble-gum-workflow.gif" alt="Ilustración 2" height="150px" style="margin-right: 10px;" />
   <img src="bubble-gum-clock-near-calendar.png" alt="Ilustración 3" height="150px" />
+  <img src="bubble-gum-workflow.gif" alt="Ilustración 2" height="150px" style="margin-right: 10px;" />
 </div>
 
 <p align="center">Ilustración por <a href="https://icons8.com/illustrations/author/7WmtYU90j36d">Fruzka</a> de <a href="https://icons8.com/illustrations">Ouch!</a></p>
