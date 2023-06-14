@@ -2,7 +2,6 @@
 
 <h1 align="center"> Hola soy Magenta Paredes</h1>
 <p align="center"><img src="bubble-gum-workflow.gif" height="250px"/></p> 
-[bubble-gum-psychologist-online-consultation](https://github.com/Meowwuw/Meowwuw/assets/85425689/7cbd76af-b4ab-49c5-9a8b-10d445fd46ed)
 <p align="center"> Illustration by <a href="https://icons8.com/illustrations/author/7WmtYU90j36d">Fruzka</a> from <a href="https://icons8.com/illustrations">Ouch!</a></p>
 
 <!--
