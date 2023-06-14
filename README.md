@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center"> Hola soy Magenta Paredes</h1>
-<p align="center"><img src="bubble-gum-workflow.gif"/></p> 
+<p align="center"><img src="bubble-gum-workflow.gif" height="150px"/></p> 
 <p align="center"> Illustration by <a href="https://icons8.com/illustrations/author/7WmtYU90j36d">Fruzka</a> from <a href="https://icons8.com/illustrations">Ouch!</a></p>
 
 
