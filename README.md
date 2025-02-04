@@ -1,5 +1,5 @@
 <h1 align="center"> Hola soy Magenta Paredes</h1>
-<p align="center"><img src="[bubble-gum-workflow.gif](https://ouch-cdn2.icons8.com/qI8pAKWhx3Xx_MBY9ZDuKurO8dfRAFR-rIPkhWjrw70/skp:webm/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy92aWRlb3Mv/OTIvYjY5NjA0YWUt/OGVhZi00ZGRmLTli/ZWQtOTY3ZTIxNTNm/MjUzLndlYm0.webm)" height="250px"/></p> 
+<p align="center"><img src="bubble-gum-workflow.gif" height="250px"/></p> 
 <p align="center"> Illustration by <a href="https://icons8.com/illustrations/author/7WmtYU90j36d">Fruzka</a> from <a href="https://icons8.com/illustrations">Ouch!</a></p>
 
 ### Bienvenid@ a mi perfil! 👋👩‍💻
