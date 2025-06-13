@@ -1,7 +1,7 @@
 # ¡Hola! Soy Magenta Paredes <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">✨
 
 <div align="center">
-  <img src="gradiente.png" alt="Gradient Background" width="100%" height="200"/>
+  <img src="fondo-gradiente.webp" alt="Gradient Background" width="100%" height="200"/>
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 10;">
     <h1 style="color: white; font-size: 3em; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Hola! Soy Magenta Paredes</h1>
     <h2 style="color: white; font-size: 1.5em; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">Frontend Developer & Tech Enthusiast 👩‍💻✨</h2>
