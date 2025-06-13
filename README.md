@@ -1,4 +1,4 @@
-# ¡Hola! Soy Magenta Paredes 👋✨
+# ¡Hola! Soy Magenta Paredes <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">✨
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,30&height=200&section=header&text=Frontend%20Developer&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
@@ -55,7 +55,7 @@ const magenta = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meowwuw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB" />
 </div>
 
 ## 🚀 Proyectos Destacados
