@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Desarrolladora+Frontend+%F0%9F%92%BB;Creando+experiencias+digitales+%E2%9C%A8;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" />
 </div>
 
-## 🌟 Sobre Mí
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre Mí
 
 ```javascript
 const magenta = {
