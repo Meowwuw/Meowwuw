@@ -1,120 +1,97 @@
 # ¡Hola! Soy Magenta Paredes <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">✨
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,30&height=200&section=header&text=Frontend%20Developer&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+  <img src="gradiente.png" alt="Gradient Background" width="100%" height="200"/>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 10;">
+    <h1 style="color: white; font-size: 3em; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">¡Hola! Soy Magenta Paredes</h1>
+    <h2 style="color: white; font-size: 1.5em; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">Frontend Developer & Tech Enthusiast 👩‍💻✨</h2>
+  </div>
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Desarrolladora+Frontend+%F0%9F%92%BB;Creando+experiencias+digitales+%E2%9C%A8;Siempre+aprendiendo+algo+nuevo+%F0%9F%9A%80" />
-</div>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Sobre Mí
-
-```javascript
-const magenta = {
-    nombre: "Magenta Paredes",
+<br>
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+👋 Hello hello
+Soy Magenta, una tech goblin y magical girl wannabe ⭐
+🎓 Frontend Developer • Creativa Digital • Cat Lover
+📱 Desarrollo Web • UI/UX • Soluciones Innovadoras
+🎨 Diseño Responsivo • Experiencia de Usuario • Código Limpio
+🎵 Música • Anime • Arte • Código • Gatos 🐱
+🧁 Muffin 🧁 • Cake & Cookie & Pudim & Quindim 🍰🍪
+javascriptconst magenta = {
     rol: "Frontend Developer",
-    experiencia: "1+ años en desarrollo web",
-    pasion: "Crear soluciones web innovadoras",
-    proyectos_completados: "10+ negocios atendidos",
-    mascota_favorita: "🐱 Gatos",
-    estado_actual: "Siempre aprendiendo y creciendo"
+    experiencia: "1+ años transformando ideas en código",
+    pasiones: ["programación", "gatos", "anime", "dulces"],
+    objetivo: "crear experiencias web mágicas ✨",
+    proyectos: "10+ negocios potenciados",
+    estado: "siempre aprendiendo algo nuevo 🚀"
 };
-```
-
-**👩‍💻 Mi Historia:** Desde una edad temprana, descubrí mi apasionada vocación por la programación, convirtiendo mi pasión en mi profesión. Como desarrolladora web, he acumulado más de 1 año de experiencia en la industria tecnológica, desafiándome constantemente y buscando oportunidades para crecer.
-
-**🎯 Mi Objetivo:** Crear soluciones web innovadoras y funcionales que marquen la diferencia en la experiencia del usuario. He tenido el privilegio de trabajar con más de 10 negocios, brindándoles soluciones personalizadas que han impulsado su crecimiento.
-
+🛠️ Mi Stack Mágico
+Frontend Spells ✨
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Backend Magic 🔮
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+🎯 Proyectos Destacados
+🚀 Proyecto💫 Tech Stack📝 DescripciónICAP ARGODERAReact, CSS3Sistema de gestión médicaMEDPRIMEPHP, SQLE-commerce de productos médicosWIBBIReact, FirebasePlataforma de streaming musicalRADIOVERSOJS, CSS3Radio online interactivaMASTERRIMASReact, FirebaseJuegos de rap y freestyleTERREAHTML5, CSS3E-commerce artesanal
+</td>
+<td width="40%" valign="top">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=EC4899&text_color=E5E7EB" />
-</div>
-
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</div>
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=EC4899&fire=EC4899&currStreakLabel=6366F1" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meowwuw&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB" />
-</div>
-
-## 🚀 Proyectos Destacados
-
-<div align="center">
-
-| Proyecto | Tecnologías | Descripción |
-|----------|-------------|-------------|
-| 🏥 **ICAP ARGODERA** | React, CSS3, JavaScript | Sistema de gestión para centros de salud |
-| 🛒 **MEDPRIME** | PHP, SQL, HTML5 | Plataforma de comercio electrónico |
-| 🎵 **WIBBI** | React, Firebase | Aplicación de streaming musical |
-| 📻 **RADIOVERSO** | JavaScript, CSS3 | Plataforma de radio online |
-| 🎮 **MASTERRIMAS** | React, Firebase | Aplicación de juegos de rap |
-| 🐰 **TERREA** | HTML5, CSS3, JavaScript | E-commerce de productos artesanales |
-
-</div>
-
-## 🎨 Mi Filosofía de Desarrollo
-
-<div align="center">
-  
-```css
-.magenta-style {
-    creativity: 100%;
-    innovation: always;
-    user-experience: priority;
-    code-quality: clean-and-maintainable;
-    learning: never-stop;
-    cat-love: infinite; /* 🐱 */
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+🐱 Cat Coding Mode
+Cuando programo, mi gato es mi co-pilot
+<img src="https://github-readme-stats.vercel.app/api?username=TU-USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" width="100%"/>
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" width="100%"/>
+<br><br>
+🎨 Creative Vibes
+css.magenta-magic {
+    creativity: infinite;
+    cat-love: 100%;
+    anime-power: over9000;
+    sweet-tooth: always;
+    code-quality: premium;
 }
-```
+🌟 Fun Facts
 
+🍰 Dulces: Mi combustible para programar
+🎌 Anime: Inspiración para UI/UX creativos
+🐱 Gatos: Mis mejores code reviewers
+✨ Magia: Creo que la programación es magia moderna
+
+<br>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
+</div>
+</td>
+</tr>
+</table>
+
+📊 GitHub Magic Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USERNAME&theme=radical&hide_border=true&background=30,e96443,904e95&stroke=fff&ring=fff&fire=fff&currStreakLabel=fff" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USERNAME&custom_title=Magenta's%20Coding%20Journey&bg_color=e96443&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="49%"/>
+</div>
+🎵 Actualmente Escuchando
+<div align="center">
+Mostrar imagen
+Lo-fi beats para programar 🎧
+</div>
+🌈 Conecta Conmigo
+<div align="center">
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
 </div>
 
-## 🐱 Fun Fact
-
-**¡Me encantan los gatos!** 🐱 Creo que programar y los gatos tienen mucho en común: ambos requieren paciencia, curiosidad y la capacidad de encontrar soluciones creativas a problemas complejos.
-
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=E96443&center=true&vCenter=true&width=600&lines=Transformando+café+en+código+desde+2023+☕;Creando+experiencias+web+mágicas+✨;Siempre+lista+para+el+siguiente+desafío+🚀;Powered+by+dulces+y+amor+por+los+gatos+🐱💕" />
 </div>
-
-## 📞 ¡Conectemos!
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://tu-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU-USERNAME)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,30&height=100&section=footer" />
-</div>
-
-<div align="center">
-  <i>💡 "La programación no es solo escribir código, es crear soluciones que transformen vidas"</i>
+  <i>💫 "La programación es como la magia: transformas pensamientos en realidad digital" 💫</i>
 </div>
