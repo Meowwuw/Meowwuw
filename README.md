@@ -1,7 +1,7 @@
 # ¡Hola! Soy Magenta Girasol Paredes <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">✨
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F71973&center=true&vCenter=true&width=700&lines=Frontend+Developer+👩‍💻✨;Amante+del+código+y+los+gatos+🐱💕;Programando+con+la+elegancia+de+un+gato+y+la+energía+de+un+girasol+🌻;Siempre+lista+para+el+siguiente+desafío+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F71973&center=true&vCenter=true&width=700&lines=Frontend+Developer+👩‍💻✨;Amante+del+código+y+los+gatos+🐱💕;Siempre+lista+para+el+siguiente+desafío+🚀" />
 </div>
 
 ---
@@ -16,9 +16,9 @@
 
 Desarrolladora web con más de **3 años de experiencia**, apasionada por la tecnología, el diseño y los desafíos.  
 He trabajado como **freelancer, en empresas y como instructora**, combinando habilidades técnicas con liderazgo, comunicación y creatividad.  
-💡 Me especializo en **HTML, CSS, JavaScript y React**  
-🎨 Amo crear interfaces mágicas con buen diseño y usabilidad.  
-🐱 ¡Programo mejor con gatos y girasoles cerca!
+* Me especializo en **HTML, CSS, JavaScript y React**  
+* Amo crear interfaces mágicas con buen diseño y usabilidad.  
+* ¡Programo mejor con gatos y girasoles cerca!
 
 ```javascript
 const magentaGirasol = {
@@ -85,10 +85,6 @@ const magentaGirasol = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meowwuw&custom_title=Magenta's%20Coding%20Journey&bg_color=F71973&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meowwuw&layout=compact&theme=radical&hide_border=true&bg_color=30,F71973,3E2956&title_color=fff&text_color=fff" width="55%"/>
-</div>
-
 ---
 
 ## 🐱 Fun Facts sobre Mí
@@ -105,9 +101,8 @@ const magentaGirasol = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF00FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/magentaparedes/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF00FF?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://tu-portfolio.com](https://portafoliomagenta.netlify.app/))
 
 </div>
 
@@ -115,10 +110,8 @@ const magentaGirasol = {
 
 <div align="center">
   
-**💜 "Programando el futuro, un commit a la vez" 💜**
+**💜 "Un commit a la vez" 💜**
 
 ![Cat Footer](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-⭐ **¡No olvides darle una estrella a mis repositorios si te gustan!** ⭐
 
 </div>
