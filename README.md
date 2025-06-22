@@ -4,20 +4,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F71973&center=true&vCenter=true&width=700&lines=Frontend+Developer+;Amante+del+código+y+los+gatos+;Siempre+lista+para+el+siguiente+desafío+" />
 </div>
 
----
-
-
-<table>
-<tr>
-<td width="60%">
+<table style="width:100%; border:none;">
+  <tr>
+    <td width="60%" valign="top">
 
 ### 👩‍💻 Sobre mí
 
 Desarrolladora web con más de **3 años de experiencia**, apasionada por la tecnología, el diseño y los desafíos.  
-He trabajado como **freelancer, en empresas y como instructora**, combinando habilidades técnicas con liderazgo, comunicación y creatividad.  
-* Me especializo en **HTML, CSS, JavaScript y React**  
-* Amo crear interfaces mágicas con buen diseño y usabilidad.  
-* ¡Programo mejor con gatos y girasoles cerca!
+He trabajado como **freelancer, en empresas y como instructora**, combinando habilidades técnicas con liderazgo, comunicación y creatividad.
+
+- ✨ Me especializo en **HTML, CSS, JavaScript y React**  
+- 🎨 Amo crear interfaces mágicas con buen diseño y usabilidad  
+- 🐱 ¡Programo mejor con gatos y girasoles cerca!
 
 ```javascript
 const magentaGirasol = {
@@ -30,18 +28,10 @@ const magentaGirasol = {
   filosofia: "Resolver problemas complejos con código elegante"
 };
 ```
+</td> <td width="40%" align="center" valign="top"> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Cat Coding"/> <br/>
+“Programando con la elegancia de un gato y la energía de un girasol” 🌻
 
-</td>
-<td width="40%" align="center">
-
-![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
-**"Programando con la elegancia de un gato y la energía de un girasol"** 🌻
-
-</td>
-</tr>
-</table>
-
+</td> </tr> </table>
 ---
 
 ## 🛠️ Stack Tecnológico
