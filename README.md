@@ -19,33 +19,11 @@ Desarrolladora web con más de 3 años de experiencia,
 </td>
 <td width="40%" valign="top">
 <div align="center">
-<img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVuM3kzdGtiOGRybHF2ZjdnZ20waWo5ZmM1aGVjZ2tuYXNncWdwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif)" width="200"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVuM3kzdGtiOGRybHF2ZjdnZ20waWo5ZmM1aGVjZ2tuYXNncWdwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="200"/>
 🐱 Cat Coding Mode
 Cuando programo, mi gato es mi co-pilot
 <img src="https://github-readme-stats.vercel.app/api?username=TU-USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" width="100%"/>
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" width="100%"/>
-<br><br>
-🎨 Creative Vibes
-css.magenta-magic {
-    creativity: infinite;
-    cat-love: 100%;
-    anime-power: over9000;
-    sweet-tooth: always;
-    code-quality: premium;
-}
-🌟 Fun Facts
 
-🍰 Dulces: Mi combustible para programar
-🎌 Anime: Inspiración para UI/UX creativos
-🐱 Gatos: Mis mejores code reviewers
-✨ Magia: Creo que la programación es magia moderna
-
-<br>
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
-</div>
-</td>
-</tr>
 </table>
 
 📊 GitHub Magic Stats
