@@ -6,6 +6,12 @@
 
 ---
 
+---
+
+<table>
+<tr>
+<td width="60%">
+
 ### 👩‍💻 Sobre mí
 
 Desarrolladora web con más de **3 años de experiencia**, apasionada por la tecnología, el diseño y los desafíos.  
@@ -26,15 +32,16 @@ const magentaGirasol = {
 };
 ```
 
----
+</td>
+<td width="40%" align="center">
 
-<div align="center">
-  
 ![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 **"Programando con la elegancia de un gato y la energía de un girasol"** 🌻
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
