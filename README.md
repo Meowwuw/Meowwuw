@@ -78,12 +78,8 @@ const magentaGirasol = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Meowwuw&show_icons=true&theme=radical&hide_border=true&bg_color=30,F71973,3E2956&title_color=fff&text_color=fff&icon_color=fff" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meowwuw&theme=radical&hide_border=true&background=30,F71973,3E2956&stroke=fff&ring=fff&fire=fff&currStreakLabel=fff" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meowwuw&custom_title=Magenta's%20Coding%20Journey&bg_color=F71973&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meowwuw&layout=compact&theme=radical&hide_border=true&bg_color=30,F71973,3E2956&title_color=fff&text_color=fff" width="55%"/>
-</div>
 
 ---
 
@@ -100,10 +96,10 @@ const magentaGirasol = {
 ## 🌐 Conecta Conmigo
 
 <div align="center">
-<a href="https://www.linkedin.com/in/magentaparedes/" target="_blank">
+<a href="https://www.linkedin.com/in/magentaparedes/">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://portafoliomagenta.netlify.app/" target="_blank">
+<a href="https://portafoliomagenta.netlify.app/">
   <img src="https://img.shields.io/badge/-Portfolio-FF00FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 </div>
@@ -111,10 +107,8 @@ const magentaGirasol = {
 
 <div align="center">
   
-**💜 "Programando el futuro, un commit a la vez" 💜**
+**💜 "Un commit a la vez" 💜**
 
 ![Cat Footer](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-⭐ **¡No olvides darle una estrella a mis repositorios si te gustan!** ⭐
 
 </div>
