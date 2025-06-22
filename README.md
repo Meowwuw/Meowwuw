@@ -28,6 +28,16 @@ const magentaGirasol = {
 
 ---
 
+<div align="center">
+  
+![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+**"Programando con la elegancia de un gato y la energía de un girasol"** 🌻
+
+</div>
+
+---
+
 ## 🛠️ Stack Tecnológico
 
 ### 🎨 **Frontend (Fortalezas Principales)**
@@ -57,41 +67,6 @@ const magentaGirasol = {
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 💼 Experiencia Profesional
-
-### 🌟 **Instructora - Ingeniería de Software con IA**
-**SENATI** | *Agosto 2024 - Actualidad*
-- Imparto conocimientos técnicos y prácticos en desarrollo web
-- Enfoque en aplicación de IA en sistemas modernos
-- Mentoreo a estudiantes de Ingeniería de Software
-
-### 🚀 **Frontend Engineer**
-**Wirbi®** | *Mayo 2024 - Mayo 2025*
-- Diseñé y desarrollé la plataforma digital completa
-- Implementé **Next.js** y **Tailwind CSS**
-- Integré componentes interactivos con **Swiper.js**
-- Incrementé significativamente el engagement de usuarios
-
-### 🔬 **Software Developer**
-**Científica Peruana** | *Febrero 2023 - Febrero 2024*
-- Desarrollé aplicación para distribuidores usando **Angular**
-- Implementé arquitectura serverless y bases de datos **NoSQL**
-- Optimicé rendimiento y escalabilidad
-
----
-
-## 🎓 Formación Académica
-
-**Universidad Tecnológica del Perú - UTP** | *2024 - En curso*
-- Proceso de convalidación para título profesional
-- Ingeniería de Software
-
-**MDP Consulting** | *Septiembre 2022 - Enero 2023*
-- Bootcamp Fullstack
-- Tecnologías modernas y herramientas de desarrollo
 
 ---
 
