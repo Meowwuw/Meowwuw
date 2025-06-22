@@ -1,12 +1,11 @@
-# ¡Hola! Soy Magenta Girasol Paredes <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">✨
+# ¡Hola! Soy Magenta Girasol Paredes <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F71973&center=true&vCenter=true&width=700&lines=Frontend+Developer+👩‍💻✨;Amante+del+código+y+los+gatos+🐱💕;Siempre+lista+para+el+siguiente+desafío+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F71973&center=true&vCenter=true&width=700&lines=Frontend+Developer+;Amante+del+código+y+los+gatos+;Siempre+lista+para+el+siguiente+desafío+" />
 </div>
 
 ---
 
----
 
 <table>
 <tr>
@@ -101,10 +100,11 @@ const magentaGirasol = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/magentaparedes/))
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF00FF?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://tu-portfolio.com](https://portafoliomagenta.netlify.app/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magentaparedes/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF00FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafoliomagenta.netlify.app/)
 
 </div>
+
 
 ---
 
