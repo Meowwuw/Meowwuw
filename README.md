@@ -100,14 +100,13 @@ const magentaGirasol = {
 ## 🌐 Conecta Conmigo
 
 <div align="center">
-<a href="https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/magentaparedes/" target="_blank">
+<a href="https://www.linkedin.com/in/magentaparedes/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://tu-portfolio.com](https://portafoliomagenta.netlify.app/" target="_blank">
+<a href="https://portafoliomagenta.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-FF00FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 </div>
-
 ---
 
 <div align="center">
