@@ -12,7 +12,7 @@
 
 Desarrolladora web con más de **3 años de experiencia**, apasionada por la tecnología, el diseño y los desafíos.  
 He trabajado como **freelancer, en empresas y como instructora**, combinando habilidades técnicas con liderazgo, comunicación y creatividad.  
-💡 Me especializo en **HTML, CSS, JavaScript y React**  
+💡 Me especializo en **JavaScript y React**  
 🎨 Amo crear interfaces mágicas con buen diseño y usabilidad.  
 🐱 ¡Programo mejor con gatos y girasoles cerca!
 
