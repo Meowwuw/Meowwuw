@@ -103,7 +103,6 @@ const magentaGirasol = {
   <img src="https://img.shields.io/badge/-Portfolio-FF00FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 </div>
----
 
 <div align="center">
   
