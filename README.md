@@ -83,6 +83,22 @@ const magentaGirasol = {
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Meowwuw&layout=compact&theme=radical&hide_border=true&bg_color=30,F71973,3E2956&title_color=fff&text_color=fff" alt="Lenguajes más usados" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Meowwuw&theme=radical&no-frame=true&margin-w=15&column=7&bg_color=30,F71973,3E2956" alt="Trofeos de GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meowwuw&theme=redical&bg_color=30,F71973,3E2956&color=fff&line=fff&point=fff&area=true&hide_border=true" alt="Gráfico de actividad" />
+</p>
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Meowwuw&color=F71973&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Meowwuw?style=flat-square&color=F71973&labelColor=000)
+![Stars](https://img.shields.io/github/stars/Meowwuw?style=flat-square&color=F71973&labelColor=000)
+
+</div>
 ---
 
 ## 🐱 Fun Facts sobre Mí
