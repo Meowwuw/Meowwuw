@@ -74,11 +74,9 @@ const magentaGirasol = {
 ---
 
 ## 📊 Estadísticas de GitHub
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Meowwuw&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meowwuw&show_icons=true&theme=radical&hide_border=true&bg_color=30,F71973,3E2956&title_color=fff&text_color=fff&icon_color=fff" width="49%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Meowwuw&theme=radical&hide_border=true&background=30,F71973,3E2956&stroke=fff&ring=fff&fire=fff&currStreakLabel=fff" width="49%" />
-</p>
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Meowwuw&layout=compact&theme=radical)
 
 
 
