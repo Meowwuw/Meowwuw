@@ -77,7 +77,6 @@ const magentaGirasol = {
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Meowwuw&show_icons=true&theme=radical&hide_border=true&bg_color=30,F71973,3E2956&title_color=fff&text_color=fff&icon_color=fff" width="49%" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Meowwuw&theme=radical&hide_border=true&background=30,F71973,3E2956&stroke=fff&ring=fff&fire=fff&currStreakLabel=fff" width="49%" alt="Racha de commits" />
 </p>
 
 <p align="center">
