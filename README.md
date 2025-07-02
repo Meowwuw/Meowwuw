@@ -74,13 +74,15 @@ const magentaGirasol = {
 ---
 
 ## 📊 Estadísticas de GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Meowwuw&show_icons=true&theme=radical)
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Meowwuw&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Meowwuw&show_icons=true&theme=radical&hide_border=true&bg_color=30,F71973,3E2956&title_color=fff&text_color=fff&icon_color=fff" width="49%" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Meowwuw&theme=radical&hide_border=true&background=30,F71973,3E2956&stroke=fff&ring=fff&fire=fff&currStreakLabel=fff" width="49%" alt="Racha de commits" />
+</p>
 
-![Metrics](https://metrics.lecoq.io/Meowwuw?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FLima)
-
-
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Meowwuw&layout=compact&theme=radical&hide_border=true&bg_color=30,F71973,3E2956&title_color=fff&text_color=fff" alt="Lenguajes más usados" />
+</p>
 ---
 
 ## 🐱 Fun Facts sobre Mí
